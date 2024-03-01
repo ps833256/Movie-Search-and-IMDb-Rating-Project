@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Prashant Singh</h1>
+<h1 align="center">Hi  <img src="https://github.com/ps833256/Movie-Search-and-IMDb-Rating-Project/blob/main/Animation%20-%201709301035690.gif" alt="Javascript" />, I'm Prashant Singh</h1>
 
 
 # Movie Search and IMDb Rating Project
